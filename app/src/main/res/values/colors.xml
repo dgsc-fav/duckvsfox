@@ -4,14 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="textColorPrimary">#454545</color>
-    <color name="textColorAccent">#6476b4</color>
-    <color name="textColorAccentError">#9b794f</color>
-
-    <color name="tensionNone">@color/colorAccent</color>
-    <color name="tensionStart">#1f8eff</color>
-    <color name="tensionEnd">#c68536</color>
-
     <color name="duckNormal">#ac9d12</color>
     <color name="duckActive">#e2cd0c</color>
     <color name="duckCatched">#ac1512</color>
